@@ -30,3 +30,8 @@ int main() {
 
 	return 0;
 }
+
+
+// break()  throw the execution outside the curly brace
+//          if we don't write break() and case matches true then all the below cases runs untils till another break() comes
+//          try it onece with out break() function
